@@ -1,4 +1,4 @@
-# Fullter Starter Kit
+# Flutter Starter Kit
 
 Build what you can imagine!
 
