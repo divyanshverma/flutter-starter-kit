@@ -2,6 +2,26 @@
 
 Build what you can imagine!
 
+# Background
+
+I have been building flutter apps for a while and never found a all in one kit that can help fast track app development.
+So I have put together this repo to share a starter kit which provides:
+
+1. Basic Auth Mechanism
+2. Drawers
+3. Tabs
+4. Nested Tabs
+5. Camera
+6. File Opener
+7. File Reader
+8. Lists
+9. Layout Ideas
+10. TUS Uploader (Future Roadmap)
+11. MQTT Client (Future Roadmap)
+12. More to come...
+
+Please feel free to use and provide feedback.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
