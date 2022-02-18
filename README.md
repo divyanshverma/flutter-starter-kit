@@ -1,6 +1,6 @@
-# test_flutter_app
+# Fullter Starter Kit
 
-A new Flutter application.
+Build what you can imagine!
 
 ## Getting Started
 
